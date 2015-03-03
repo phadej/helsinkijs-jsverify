@@ -1,0 +1,25 @@
+{
+  "name": "helsinkijs-jsverify",
+  "version": "1.0.0",
+  "description": "Presentation for HelsinkiJS on 2015-03-26",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/phadej/helsinkijs-jsverify.git"
+  },
+  "author": "Oleg Grenrus <oleg.grenrus@iki.fi>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/phadej/helsinkijs-jsverify/issues"
+  },
+  "homepage": "https://github.com/phadej/helsinkijs-jsverify",
+  "dependencies": {
+    "bluebird": "^2.9.14",
+    "jsverify": "^0.6.0-alpha.3",
+    "lodash": "^3.5.0",
+    "mocha": "^2.2.1"
+  }
+}
